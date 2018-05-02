@@ -1,0 +1,266 @@
+{
+    "palabra": {
+        "tag": "NOUN",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "hola": {
+        "tag": "X",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "como": {
+        "tag": "ADP",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "estas": {
+        "tag": "DET",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "somos": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "PRESENT",
+        "frase": "none"
+    },
+    "dos": {
+        "tag": "NUM",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "Vamos": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "PRESENT",
+        "frase": "none"
+    },
+    "a": {
+        "tag": "ADP",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "probar": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "esta": {
+        "tag": "DET",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "aplicaci\u00f3n": {
+        "tag": "NOUN",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "Estaba": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "PAST",
+        "frase": "none"
+    },
+    "tratando": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "de": {
+        "tag": "ADP",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "hacer": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "algo": {
+        "tag": "NOUN",
+        "gender": "MASCULINE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "pero": {
+        "tag": "CONJ",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "que": {
+        "tag": "ADP",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "no": {
+        "tag": "ADV",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "pude": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "PAST",
+        "frase": "none"
+    },
+    "guacamayo": {
+        "tag": "NOUN",
+        "gender": "MASCULINE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "una": {
+        "tag": "DET",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "frase": {
+        "tag": "NOUN",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "probando": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "otra": {
+        "tag": "DET",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "vez": {
+        "tag": "NOUN",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "la": {
+        "tag": "DET",
+        "gender": "FEMININE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "Hola": {
+        "tag": "X",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "Todo": {
+        "tag": "DET",
+        "gender": "MASCULINE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "bien": {
+        "tag": "ADV",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "c\u00f3mo": {
+        "tag": "ADV",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "anda": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "PRESENT",
+        "frase": "none"
+    },
+    "C\u00f3mo": {
+        "tag": "ADV",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "est\u00e1s": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "PRESENT",
+        "frase": "none"
+    },
+    "hoy": {
+        "tag": "ADV",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "pensando": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "ha": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "PAST",
+        "frase": "none"
+    },
+    "sido": {
+        "tag": "VERB",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "un": {
+        "tag": "DET",
+        "gender": "MASCULINE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "d\u00eda": {
+        "tag": "NOUN",
+        "gender": "MASCULINE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "muy": {
+        "tag": "ADV",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "bonito": {
+        "tag": "ADJ",
+        "gender": "MASCULINE",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "para": {
+        "tag": "ADP",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    },
+    "qu\u00e9": {
+        "tag": "PRON",
+        "gender": "UNKNOWN",
+        "tiempo": "UNKNOWN",
+        "frase": "none"
+    }
+}
