@@ -1,266 +1,275 @@
 {
-    "palabra": {
-        "tag": "NOUN",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
+    "words": {
+        "0": {
+            "word": "t\u00fa",
+            "tag": "PRON",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "t\u00fa",
+            "used sentece": "t\u00fa mirabas al piso"
+        },
+        "1": {
+            "word": "mirabas",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "PAST",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "mirar",
+            "used sentece": "t\u00fa mirabas al piso"
+        },
+        "2": {
+            "word": "al",
+            "tag": "ADP",
+            "gender": "MASCULINE",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "SINGULAR",
+            "lemma": "a",
+            "used sentece": "t\u00fa mirabas al piso"
+        },
+        "3": {
+            "word": "piso",
+            "tag": "NOUN",
+            "gender": "MASCULINE",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "SINGULAR",
+            "lemma": "piso",
+            "used sentece": "t\u00fa mirabas al piso"
+        },
+        "4": {
+            "word": "miro",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "FIRST",
+            "number": "SINGULAR",
+            "lemma": "mirar",
+            "used sentece": "miro"
+        },
+        "5": {
+            "word": "lloro",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "FIRST",
+            "number": "SINGULAR",
+            "lemma": "llorar",
+            "used sentece": "lloro"
+        },
+        "6": {
+            "word": "llorabas",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "CONDITIONAL_TENSE",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "llorar",
+            "used sentece": "llorabas"
+        },
+        "7": {
+            "word": "llorastes",
+            "tag": "NOUN",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": " SECOND",
+            "number": "PLURAL",
+            "lemma": "llorastar",
+            "used sentece": "llorastes"
+        },
+        "8": {
+            "word": "t\u00fa",
+            "tag": "PRON",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "t\u00fa",
+            "used sentece": "t\u00fa llorabas tanto"
+        },
+        "9": {
+            "word": "llorabas",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "PRESENT",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "llorar",
+            "used sentece": "t\u00fa llorabas tanto"
+        },
+        "10": {
+            "word": "tanto",
+            "tag": "ADV",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "UNKNOWN",
+            "lemma": "tanto",
+            "used sentece": "t\u00fa llorabas tanto"
+        },
+        "11": {
+            "word": "t\u00fa",
+            "tag": "PRON",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "t\u00fa",
+            "used sentece": "t\u00fa miras al frente"
+        },
+        "12": {
+            "word": "miras",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "PRESENT",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "mirar",
+            "used sentece": "t\u00fa miras al frente"
+        },
+        "13": {
+            "word": "al",
+            "tag": "ADP",
+            "gender": "MASCULINE",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "SINGULAR",
+            "lemma": "a",
+            "used sentece": "t\u00fa miras al frente"
+        },
+        "14": {
+            "word": "frente",
+            "tag": "NOUN",
+            "gender": "MASCULINE",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "SINGULAR",
+            "lemma": "frente",
+            "used sentece": "t\u00fa miras al frente"
+        },
+        "15": {
+            "word": "t\u00fa",
+            "tag": "PRON",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "t\u00fa",
+            "used sentece": "t\u00fa lloras poco"
+        },
+        "16": {
+            "word": "lloras",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "PAST",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "lloras",
+            "used sentece": "t\u00fa lloras poco"
+        },
+        "17": {
+            "word": "poco",
+            "tag": "ADV",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "UNKNOWN",
+            "lemma": "poco",
+            "used sentece": "t\u00fa lloras poco"
+        },
+        "18": {
+            "word": "t\u00fa",
+            "tag": "PRON",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "t\u00fa",
+            "used sentece": "t\u00fa comes poco"
+        },
+        "19": {
+            "word": "comes",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "PRESENT",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "comer",
+            "used sentece": "t\u00fa comes poco"
+        },
+        "20": {
+            "word": "poco",
+            "tag": "ADV",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "UNKNOWN",
+            "lemma": "poco",
+            "used sentece": "t\u00fa comes poco"
+        },
+        "21": {
+            "word": "t\u00fa",
+            "tag": "PRON",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "t\u00fa",
+            "used sentece": "t\u00fa muerdes duro"
+        },
+        "22": {
+            "word": "muerdes",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "PRESENT",
+            "person": " SECOND",
+            "number": "SINGULAR",
+            "lemma": "mordar",
+            "used sentece": "t\u00fa muerdes duro"
+        },
+        "23": {
+            "word": "duro",
+            "tag": "ADJ",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "SINGULAR",
+            "lemma": "duro",
+            "used sentece": "t\u00fa muerdes duro"
+        },
+        "24": {
+            "word": "yo",
+            "tag": "PRON",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "FIRST",
+            "number": "SINGULAR",
+            "lemma": "yo",
+            "used sentece": "yo muerdo suave"
+        },
+        "25": {
+            "word": "muerdo",
+            "tag": "VERB",
+            "gender": "UNKNOWN",
+            "tense": "PAST",
+            "person": "FIRST",
+            "number": "SINGULAR",
+            "lemma": "mordar",
+            "used sentece": "yo muerdo suave"
+        },
+        "26": {
+            "word": "suave",
+            "tag": "ADJ",
+            "gender": "UNKNOWN",
+            "tense": "UNKNOWN",
+            "person": "PERSONAL_UNKNOWN",
+            "number": "SINGULAR",
+            "lemma": "suave",
+            "used sentece": "yo muerdo suave"
+        }
     },
-    "hola": {
-        "tag": "X",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "como": {
-        "tag": "ADP",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "estas": {
-        "tag": "DET",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "somos": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "PRESENT",
-        "frase": "none"
-    },
-    "dos": {
-        "tag": "NUM",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "Vamos": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "PRESENT",
-        "frase": "none"
-    },
-    "a": {
-        "tag": "ADP",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "probar": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "esta": {
-        "tag": "DET",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "aplicaci\u00f3n": {
-        "tag": "NOUN",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "Estaba": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "PAST",
-        "frase": "none"
-    },
-    "tratando": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "de": {
-        "tag": "ADP",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "hacer": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "algo": {
-        "tag": "NOUN",
-        "gender": "MASCULINE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "pero": {
-        "tag": "CONJ",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "que": {
-        "tag": "ADP",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "no": {
-        "tag": "ADV",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "pude": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "PAST",
-        "frase": "none"
-    },
-    "guacamayo": {
-        "tag": "NOUN",
-        "gender": "MASCULINE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "una": {
-        "tag": "DET",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "frase": {
-        "tag": "NOUN",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "probando": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "otra": {
-        "tag": "DET",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "vez": {
-        "tag": "NOUN",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "la": {
-        "tag": "DET",
-        "gender": "FEMININE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "Hola": {
-        "tag": "X",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "Todo": {
-        "tag": "DET",
-        "gender": "MASCULINE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "bien": {
-        "tag": "ADV",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "c\u00f3mo": {
-        "tag": "ADV",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "anda": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "PRESENT",
-        "frase": "none"
-    },
-    "C\u00f3mo": {
-        "tag": "ADV",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "est\u00e1s": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "PRESENT",
-        "frase": "none"
-    },
-    "hoy": {
-        "tag": "ADV",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "pensando": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "ha": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "PAST",
-        "frase": "none"
-    },
-    "sido": {
-        "tag": "VERB",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "un": {
-        "tag": "DET",
-        "gender": "MASCULINE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "d\u00eda": {
-        "tag": "NOUN",
-        "gender": "MASCULINE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "muy": {
-        "tag": "ADV",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "bonito": {
-        "tag": "ADJ",
-        "gender": "MASCULINE",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "para": {
-        "tag": "ADP",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    },
-    "qu\u00e9": {
-        "tag": "PRON",
-        "gender": "UNKNOWN",
-        "tiempo": "UNKNOWN",
-        "frase": "none"
-    }
+    "sentence": {}
 }
