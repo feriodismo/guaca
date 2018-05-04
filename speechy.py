@@ -5,6 +5,7 @@ from notes.applications_gua import data
 r = sr.Recognizer()
 WIT_AI_KEY = data["wit_proy"] 
 
+ejemplo = "ejemplo"
 def milagro():
 	with sr.Microphone() as source:
 		print("Say something!")
